@@ -1,0 +1,74 @@
+﻿@page "/edit"
+@using Models
+@inject NavigationManager NavigationManager 
+
+    <PageTitle>Edit Task</PageTitle>
+    <h3>EditTask</h3>
+
+    <div class="row justify-content-center">
+        <div class="col-sm-4">
+            <EditForm Model="@task" OnSubmit="HandleSubmit">
+                <!-- Name input -->
+                <div class=" mb-4">
+                    <label class="form-label" for="name">Name : </label>
+                    <InputText id="name" class="form-control" @bind-Value="@task.Name"></InputText>
+
+                </div>
+
+                <!-- Status input -->
+                <div class=" mb-4">
+                    <label class="form-label" for="status">Status :</label>
+                    <InputSelect id="status" class="form-control" @bind-Value="@task.Status">
+                    @foreach (var option in statusOptions)
+                    {
+                                                        <option value="@option">@option</option>
+                    }
+                    </InputSelect>
+
+                </div>
+
+                <!-- Priority input -->
+                <div class=" mb-4">
+                    <label class="form-label" for="priority">Priority : </label>
+                    <InputSelect id="priority" class="form-control" @bind-Value="@task.Priority">
+                    @foreach (var option in priorityOptions)
+                    {
+                                                                                    <option value="@option">@option</option>
+                    }
+                    </InputSelect>
+
+                </div>
+
+                <!-- Deadline input -->
+                <div class=" mb-4">
+                    <label class="form-label" for="deadline">Deadline : </label>
+                    <InputDate id="deadline" class="form-control" @bind-Value="@task.Deadline"></InputDate>
+
+                </div>
+
+                <!-- Submit button -->
+                <button type="submit" class="btn btn-primary btn-block">Save Changes</button>
+            </EditForm>
+
+        </div>
+    </div>
+
+@code {
+    // Add these above your @code block
+    private string[] statusOptions = { "Done", "Pending", "Not Yet" };
+    private string[] priorityOptions = { "High", "Medium", "Low" };
+
+    private TaskModel task = new()
+        {
+            Name = string.Empty,
+            Status = string.Empty,
+            Priority = string.Empty,
+            Deadline = DateTime.UtcNow
+        };
+
+    private void HandleSubmit()
+    {
+        TaskClient.AddTask(task);
+        NavigationManager.NavigateTo("/tasks");
+    }
+}

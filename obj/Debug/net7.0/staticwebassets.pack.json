@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/obj/Debug/net7.0/build-gz/rgfJfwvH.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/obj/Debug/net7.0/scopedcss/bundle/GameStore.Client.styles.css",
+      "PackagePath": "staticwebassets/GameStore.Client.styles.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.dark.min.css",
+      "PackagePath": "staticwebassets/css/mdb.dark.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.dark.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.dark.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.dark.rtl.min.css",
+      "PackagePath": "staticwebassets/css/mdb.dark.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.dark.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.dark.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.min.css",
+      "PackagePath": "staticwebassets/css/mdb.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.rtl.min.css",
+      "PackagePath": "staticwebassets/css/mdb.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/mdb.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/animate.min.css",
+      "PackagePath": "staticwebassets/css/modules/animate.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/animate.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/animate.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/animate.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/animate.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/animate.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/animate.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/autocomplete.min.css",
+      "PackagePath": "staticwebassets/css/modules/autocomplete.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/autocomplete.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/autocomplete.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/autocomplete.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/autocomplete.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/autocomplete.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/autocomplete.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/chips.min.css",
+      "PackagePath": "staticwebassets/css/modules/chips.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/chips.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/chips.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/chips.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/chips.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/chips.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/chips.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datatable.min.css",
+      "PackagePath": "staticwebassets/css/modules/datatable.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datatable.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/datatable.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datatable.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/datatable.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datatable.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/datatable.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/date-time-picker.min.css",
+      "PackagePath": "staticwebassets/css/modules/date-time-picker.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/date-time-picker.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/date-time-picker.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/date-time-picker.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/date-time-picker.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/date-time-picker.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/date-time-picker.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datepicker.min.css",
+      "PackagePath": "staticwebassets/css/modules/datepicker.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datepicker.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/datepicker.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datepicker.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/datepicker.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/datepicker.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/datepicker.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/lightbox.min.css",
+      "PackagePath": "staticwebassets/css/modules/lightbox.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/lightbox.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/lightbox.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/lightbox.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/lightbox.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/lightbox.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/lightbox.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/modal.min.css",
+      "PackagePath": "staticwebassets/css/modules/modal.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/modal.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/modal.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/modal.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/modal.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/modal.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/modal.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/multi-range.min.css",
+      "PackagePath": "staticwebassets/css/modules/multi-range.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/multi-range.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/multi-range.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/multi-range.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/multi-range.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/multi-range.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/multi-range.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/navbar.min.css",
+      "PackagePath": "staticwebassets/css/modules/navbar.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/navbar.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/navbar.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/navbar.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/navbar.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/navbar.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/navbar.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets/css/modules/perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/perfect-scrollbar.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/perfect-scrollbar.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/perfect-scrollbar.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/perfect-scrollbar.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/perfect-scrollbar.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/perfect-scrollbar.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/popconfirm.min.css",
+      "PackagePath": "staticwebassets/css/modules/popconfirm.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/popconfirm.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/popconfirm.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/popconfirm.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/popconfirm.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/popconfirm.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/popconfirm.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/rating.min.css",
+      "PackagePath": "staticwebassets/css/modules/rating.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/rating.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/rating.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/rating.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/rating.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/rating.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/rating.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/select.min.css",
+      "PackagePath": "staticwebassets/css/modules/select.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/select.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/select.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/select.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/select.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/select.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/select.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sidenav.min.css",
+      "PackagePath": "staticwebassets/css/modules/sidenav.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sidenav.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/sidenav.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sidenav.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/sidenav.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sidenav.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/sidenav.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/stepper.min.css",
+      "PackagePath": "staticwebassets/css/modules/stepper.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/stepper.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/stepper.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/stepper.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/stepper.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/stepper.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/stepper.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sticky.min.css",
+      "PackagePath": "staticwebassets/css/modules/sticky.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sticky.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/sticky.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sticky.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/sticky.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/sticky.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/sticky.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/timepicker.min.css",
+      "PackagePath": "staticwebassets/css/modules/timepicker.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/timepicker.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/timepicker.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/timepicker.rtl.min.css",
+      "PackagePath": "staticwebassets/css/modules/timepicker.rtl.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/modules/timepicker.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/modules/timepicker.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/mdb.min.js",
+      "PackagePath": "staticwebassets/js/mdb.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/mdb.min.js.map",
+      "PackagePath": "staticwebassets/js/mdb.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/alert.min.js",
+      "PackagePath": "staticwebassets/js/modules/alert.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/alert.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/alert.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/animate.min.js",
+      "PackagePath": "staticwebassets/js/modules/animate.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/animate.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/animate.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/autocomplete.min.js",
+      "PackagePath": "staticwebassets/js/modules/autocomplete.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/autocomplete.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/autocomplete.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/charts.min.js",
+      "PackagePath": "staticwebassets/js/modules/charts.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/charts.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/charts.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/chips.min.js",
+      "PackagePath": "staticwebassets/js/modules/chips.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/chips.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/chips.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/clipboard.min.js",
+      "PackagePath": "staticwebassets/js/modules/clipboard.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/clipboard.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/clipboard.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/datatable.min.js",
+      "PackagePath": "staticwebassets/js/modules/datatable.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/datatable.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/datatable.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/date-time-picker.min.js",
+      "PackagePath": "staticwebassets/js/modules/date-time-picker.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/date-time-picker.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/date-time-picker.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/datepicker.min.js",
+      "PackagePath": "staticwebassets/js/modules/datepicker.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/datepicker.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/datepicker.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/infinite-scroll.min.js",
+      "PackagePath": "staticwebassets/js/modules/infinite-scroll.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/infinite-scroll.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/infinite-scroll.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/lazy-load.min.js",
+      "PackagePath": "staticwebassets/js/modules/lazy-load.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/lazy-load.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/lazy-load.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/lightbox.min.js",
+      "PackagePath": "staticwebassets/js/modules/lightbox.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/lightbox.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/lightbox.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/loading-management.min.js",
+      "PackagePath": "staticwebassets/js/modules/loading-management.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/loading-management.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/loading-management.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/modal.min.js",
+      "PackagePath": "staticwebassets/js/modules/modal.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/modal.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/modal.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/multi-range.min.js",
+      "PackagePath": "staticwebassets/js/modules/multi-range.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/multi-range.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/multi-range.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/navbar.min.js",
+      "PackagePath": "staticwebassets/js/modules/navbar.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/navbar.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/navbar.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/modules/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/perfect-scrollbar.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/perfect-scrollbar.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/popconfirm.min.js",
+      "PackagePath": "staticwebassets/js/modules/popconfirm.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/popconfirm.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/popconfirm.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/rating.min.js",
+      "PackagePath": "staticwebassets/js/modules/rating.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/rating.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/rating.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/select.min.js",
+      "PackagePath": "staticwebassets/js/modules/select.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/select.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/select.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/sidenav.min.js",
+      "PackagePath": "staticwebassets/js/modules/sidenav.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/sidenav.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/sidenav.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/smooth-scroll.min.js",
+      "PackagePath": "staticwebassets/js/modules/smooth-scroll.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/smooth-scroll.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/smooth-scroll.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/stepper.min.js",
+      "PackagePath": "staticwebassets/js/modules/stepper.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/stepper.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/stepper.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/sticky.min.js",
+      "PackagePath": "staticwebassets/js/modules/sticky.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/sticky.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/sticky.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/timepicker.min.js",
+      "PackagePath": "staticwebassets/js/modules/timepicker.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/timepicker.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/timepicker.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/toast.min.js",
+      "PackagePath": "staticwebassets/js/modules/toast.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/toast.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/toast.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/touch.min.js",
+      "PackagePath": "staticwebassets/js/modules/touch.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/touch.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/touch.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/treeview.min.js",
+      "PackagePath": "staticwebassets/js/modules/treeview.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/js/modules/treeview.min.js.map",
+      "PackagePath": "staticwebassets/js/modules/treeview.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/all.min.css",
+      "PackagePath": "staticwebassets/plugins/css/all.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/calendar.min.css",
+      "PackagePath": "staticwebassets/plugins/css/calendar.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/calendar.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/calendar.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/captcha.min.css",
+      "PackagePath": "staticwebassets/plugins/css/captcha.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/captcha.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/captcha.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/color-picker.min.css",
+      "PackagePath": "staticwebassets/plugins/css/color-picker.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/color-picker.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/color-picker.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/cookie.min.css",
+      "PackagePath": "staticwebassets/plugins/css/cookie.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/cookie.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/cookie.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/countdown.min.css",
+      "PackagePath": "staticwebassets/plugins/css/countdown.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/countdown.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/countdown.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/drag-and-drop.min.css",
+      "PackagePath": "staticwebassets/plugins/css/drag-and-drop.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/drag-and-drop.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/drag-and-drop.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/dummy.min.css",
+      "PackagePath": "staticwebassets/plugins/css/dummy.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/dummy.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/dummy.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/ecommerce-gallery.min.css",
+      "PackagePath": "staticwebassets/plugins/css/ecommerce-gallery.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/ecommerce-gallery.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/ecommerce-gallery.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/file-upload.min.css",
+      "PackagePath": "staticwebassets/plugins/css/file-upload.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/file-upload.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/file-upload.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/filters.min.css",
+      "PackagePath": "staticwebassets/plugins/css/filters.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/filters.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/filters.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/inputmask.min.css",
+      "PackagePath": "staticwebassets/plugins/css/inputmask.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/inputmask.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/inputmask.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/mention.min.css",
+      "PackagePath": "staticwebassets/plugins/css/mention.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/mention.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/mention.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/multi-carousel.min.css",
+      "PackagePath": "staticwebassets/plugins/css/multi-carousel.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/multi-carousel.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/multi-carousel.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/onboarding.min.css",
+      "PackagePath": "staticwebassets/plugins/css/onboarding.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/onboarding.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/onboarding.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/organization-chart.min.css",
+      "PackagePath": "staticwebassets/plugins/css/organization-chart.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/organization-chart.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/organization-chart.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/parallax.min.css",
+      "PackagePath": "staticwebassets/plugins/css/parallax.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/parallax.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/parallax.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/scroll-status.min.css",
+      "PackagePath": "staticwebassets/plugins/css/scroll-status.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/scroll-status.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/scroll-status.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/storage.min.css",
+      "PackagePath": "staticwebassets/plugins/css/storage.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/storage.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/storage.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/table-editor.min.css",
+      "PackagePath": "staticwebassets/plugins/css/table-editor.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/table-editor.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/table-editor.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/transfer.min.css",
+      "PackagePath": "staticwebassets/plugins/css/transfer.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/transfer.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/transfer.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/treetable.min.css",
+      "PackagePath": "staticwebassets/plugins/css/treetable.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/treetable.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/treetable.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/treeview.min.css",
+      "PackagePath": "staticwebassets/plugins/css/treeview.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/treeview.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/treeview.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/vector-maps.min.css",
+      "PackagePath": "staticwebassets/plugins/css/vector-maps.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/vector-maps.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/vector-maps.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/wysiwyg.min.css",
+      "PackagePath": "staticwebassets/plugins/css/wysiwyg.min.css"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/css/wysiwyg.min.css.map",
+      "PackagePath": "staticwebassets/plugins/css/wysiwyg.min.css.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/all.min.js",
+      "PackagePath": "staticwebassets/plugins/js/all.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/calendar.min.js",
+      "PackagePath": "staticwebassets/plugins/js/calendar.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/calendar.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/calendar.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/captcha.min.js",
+      "PackagePath": "staticwebassets/plugins/js/captcha.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/captcha.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/captcha.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/color-picker.min.js",
+      "PackagePath": "staticwebassets/plugins/js/color-picker.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/color-picker.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/color-picker.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/cookie.min.js",
+      "PackagePath": "staticwebassets/plugins/js/cookie.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/cookie.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/cookie.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/countdown.min.js",
+      "PackagePath": "staticwebassets/plugins/js/countdown.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/countdown.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/countdown.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/data-parser.min.js",
+      "PackagePath": "staticwebassets/plugins/js/data-parser.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/data-parser.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/data-parser.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/drag-and-drop.min.js",
+      "PackagePath": "staticwebassets/plugins/js/drag-and-drop.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/drag-and-drop.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/drag-and-drop.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/dummy.min.js",
+      "PackagePath": "staticwebassets/plugins/js/dummy.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/dummy.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/dummy.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/ecommerce-gallery.min.js",
+      "PackagePath": "staticwebassets/plugins/js/ecommerce-gallery.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/ecommerce-gallery.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/ecommerce-gallery.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/file-upload.min.js",
+      "PackagePath": "staticwebassets/plugins/js/file-upload.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/file-upload.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/file-upload.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/filters.min.js",
+      "PackagePath": "staticwebassets/plugins/js/filters.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/filters.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/filters.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/inputmask.min.js",
+      "PackagePath": "staticwebassets/plugins/js/inputmask.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/inputmask.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/inputmask.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/mention.min.js",
+      "PackagePath": "staticwebassets/plugins/js/mention.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/mention.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/mention.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/multi-carousel.min.js",
+      "PackagePath": "staticwebassets/plugins/js/multi-carousel.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/multi-carousel.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/multi-carousel.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/onboarding.min.js",
+      "PackagePath": "staticwebassets/plugins/js/onboarding.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/onboarding.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/onboarding.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/organization-chart.min.js",
+      "PackagePath": "staticwebassets/plugins/js/organization-chart.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/organization-chart.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/organization-chart.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/parallax.min.js",
+      "PackagePath": "staticwebassets/plugins/js/parallax.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/parallax.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/parallax.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/scroll-status.min.js",
+      "PackagePath": "staticwebassets/plugins/js/scroll-status.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/scroll-status.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/scroll-status.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/storage.min.js",
+      "PackagePath": "staticwebassets/plugins/js/storage.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/storage.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/storage.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/table-editor.min.js",
+      "PackagePath": "staticwebassets/plugins/js/table-editor.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/table-editor.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/table-editor.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/transfer.min.js",
+      "PackagePath": "staticwebassets/plugins/js/transfer.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/transfer.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/transfer.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/treetable.min.js",
+      "PackagePath": "staticwebassets/plugins/js/treetable.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/treetable.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/treetable.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/treeview.min.js",
+      "PackagePath": "staticwebassets/plugins/js/treeview.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/treeview.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/treeview.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/vector-maps.min.js",
+      "PackagePath": "staticwebassets/plugins/js/vector-maps.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/vector-maps.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/vector-maps.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/wysiwyg.min.js",
+      "PackagePath": "staticwebassets/plugins/js/wysiwyg.min.js"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/plugins/js/wysiwyg.min.js.map",
+      "PackagePath": "staticwebassets/plugins/js/wysiwyg.min.js.map"
+    },
+    {
+      "Id": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.GameStore.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.GameStore.Client.props",
+      "PackagePath": "build\\GameStore.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GameStore.Client.props",
+      "PackagePath": "buildMultiTargeting\\GameStore.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GameStore.Client.props",
+      "PackagePath": "buildTransitive\\GameStore.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

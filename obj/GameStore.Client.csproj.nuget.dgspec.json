@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/GameStore.Client.csproj": {}
+  },
+  "projects": {
+    "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/GameStore.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/GameStore.Client.csproj",
+        "projectName": "GameStore.Client",
+        "projectPath": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/GameStore.Client.csproj",
+        "packagesPath": "/home/nathan/.nuget/packages/",
+        "outputPath": "/home/nathan/Projects-codes/blazor(c#)-projects/GameStore/GameStore.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nathan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.7, 7.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[7.0.7, 7.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

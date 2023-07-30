@@ -1,0 +1,87 @@
+@page "/tasks"
+@using Models
+
+<PageTitle>Tasks</PageTitle>
+
+<div>
+    @if (tasks is null)
+    {
+                            <p><em>Loading...</em></p>
+    }
+    else
+    {
+
+                <table class="table align-middle mb-0 bg-white table-hover">
+                  <thead class="table-dark">
+                    <tr>
+                      <th>ID</th>
+                      <th>Name</th>
+                      <th>Status</th>
+                      <th>Priority</th>
+                      <th>Deadline</th>
+                      <th>Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                @foreach (var task in tasks)
+                {
+                                                                            <tr>
+                                                                              <td>
+
+                                                                                  <div class="">
+                                                                                    <p class="fw-bold mb-1">@task.ID</p>
+                                                                                  </div>
+
+                                                                              </td>
+                                                                              <td>
+                                                                                <p class="fw-normal mb-1">@task.Name</p>
+
+                                                                              </td>
+                                                                              <td>
+                            @if (@task.Status == "Done")
+                            {
+                                                                <span class="badge badge-success rounded-pill d-inline">@task.Status</span>   
+                            }
+                            @if (@task.Status == "Pending")
+                            {
+                                                                    <span class="badge badge-warning rounded-pill d-inline">@task.Status</span>
+                            }
+                            @if (@task.Status == "Not Yet")
+                            {
+                                                                    <span class="badge badge-primary rounded-pill d-inline">@task.Status</span> 
+                            }
+
+                                                                              </td>
+                                                                              <td>@task.Priority</td>
+                                                                               <td>@task.Deadline.ToString("MM/dd/yyyy")</td>
+                                                                          <td>
+                                                                            <button type="button" class="btn btn-link btn-sm btn-rounded fw-bold">
+                                                                              Edit
+                                                                            </button>
+                                                                          </td>
+                                                                        </tr>
+
+                }
+
+
+
+                  </tbody>
+                </table>
+    }
+</div>
+
+
+
+@* <span class="badge badge-warning rounded-pill d-inline">Awaiting</span> *@
+@* <span class="badge badge-primary rounded-pill d-inline">Onboarding</span> *@
+
+
+@code {
+
+    private TaskModel[]? tasks;
+
+    protected override void OnInitialized()
+    {
+        tasks = TaskClient.GetTasks();
+    }
+}
